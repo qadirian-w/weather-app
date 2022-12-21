@@ -1,0 +1,11 @@
+:root {
+    --primary-color: #9c1de7;
+    --orange-color: #eac100;
+    --muted-color: #777;
+    --body-color: #000000;
+    --body-background-color: #ccc;
+    --input-padding-y: 0.5rem;
+    --font-size-1: 4.768rem;
+    --font-size-2: 3.815rem;
+    --font-weight-bold: 700;
+}
